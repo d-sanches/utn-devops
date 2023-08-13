@@ -1,0 +1,7 @@
+Repositorio Vagrant:
+
+URL: https://github.com/d-sanches/utn-devops.git
+Rama (Branch): unidad-1-vagrant
+
+Captura de Pantalla:
+Adjunto captura de pantalla que muestra la aplicación ejecutándose en la VM de Ubuntu.
